@@ -1,2 +1,4 @@
-# Step3
-Website for SEG3103 
+# Pursuit Fitness
+# Omar Khater 300188875
+
+
